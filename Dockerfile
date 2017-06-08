@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.3
+FROM resin/raspberrypi3-alpine
 
 ENV ROUTE53_UPDATE_FREQUENCY 10800
 
